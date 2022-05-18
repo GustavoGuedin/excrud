@@ -26,6 +26,8 @@
                         <div class="sociais">
                             <a href="https://www.instagram.com/guilherme_lineburger/">Instagram</a>
                             <div class="espaco"></div>
+                            <a href="https://github.com/lineburgerguilherme">GitHub</a>
+                            <div class="espaco"></div>
                             <a href="https://www.linkedin.com/in/guilherme-machado-lineburger-1b6912218/">LinkedIn</a>
                         </div>
                     </div>
